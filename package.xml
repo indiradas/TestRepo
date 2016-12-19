@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <version>37.0</version>
+    <types>
+        <members>2%2B Standard User - Custom</members>
+        <members>2-50 Standard User - Custom</members>
+        <members>51%2B Standard User - Custom</members>
+        <members>AIA 200%2B Standard User - Custom</members>
+        <members>AIA RUL Custom</members>
+        <members>Admin</members>
+        <members>CAS - Custom</members>
+        <members>Chatter Only User</members>
+        <members>ContractManager</members>
+        <members>Integration - Custom</members>
+        <members>ManagedServicesSupport - custom</members>
+        <members>MarketingProfile</members>
+        <members>NCAS Integration</members>
+        <members>Off Shore Testing - Custom</members>
+        <members>Premier Support User</members>
+        <members>RFP CF - Custom</members>
+        <members>RFP TPA - Custom</members>
+        <members>Read Only - Custom</members>
+        <members>ReadOnly</members>
+        <members>SBU Administrative Assistant</members>
+        <members>SBU Broker Service Manager</members>
+        <members>SBU Broker Service Rep</members>
+        <members>SolutionManager</members>
+        <members>Standard</members>
+        <members>Stop Loss</members>
+        <members>System Administrator - Custom</members>
+        <name>Profile</name>
+    </types>
+</Package>
